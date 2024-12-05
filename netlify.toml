@@ -7,3 +7,8 @@
   to = "/.well-known/:splat"
   status = 200
   force = true
+
+[[headers]]
+  for = "/.well-known/*"
+  [headers.values]
+    Content-Type = "text/plain"
