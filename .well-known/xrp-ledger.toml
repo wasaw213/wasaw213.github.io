@@ -2,6 +2,11 @@
 address = "rUQDycPkQ1XLehCUhY7R44cGBqpfx4JyBF"
 name = "JEET"
 
+[[ACCOUNTS]]
+address = "rUQDycPkQ1XLehCUhY7R44cGBqpfx4JyBF"
+desc = "desc"
+domain = "https://dfasfasfasfasfs.netlify.app/"
+
 [[TOKENS]]
 issuer = "rUQDycPkQ1XLehCUhY7R44cGBqpfx4JyBF"
 currency = "JEET"
