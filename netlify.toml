@@ -1,0 +1,9 @@
+[build]
+  publish = "/"
+  command = "echo 'nothing to build'"
+
+[[redirects]]
+  from = "/.well-known/*"
+  to = "/.well-known/:splat"
+  status = 200
+  force = true
