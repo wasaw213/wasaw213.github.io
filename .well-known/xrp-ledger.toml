@@ -1,24 +1,24 @@
 [[ISSUERS]]
-address = "rshEcEz8twfvtzWEwkbyBzDonkeCjuXKCd"
-name = "CHARK"
+address = "rNv9vWHXCRM9QgaWkfrAiau3ZxbbeEEb1q"
+name = "COSTA"
 
 [[ACCOUNTS]]
-address = "rshEcEz8twfvtzWEwkbyBzDonkeCjuXKCd"
+address = "rNv9vWHXCRM9QgaWkfrAiau3ZxbbeEEb1q"
 desc = "desc"
-domain = "https://charkcoinxrp.netlify.app/"
+domain = "https://costacoinxrp.netlify.app/"
 
 [[TOKENS]]
-issuer = "rshEcEz8twfvtzWEwkbyBzDonkeCjuXKCd"
-currency = "CHARK"
-name = "CHARKOL"
-desc = "BORN TO BURN. Burn your doubts and join the hottest $CHARK on the XRP ledger!"
-icon = "https://pbs.twimg.com/profile_images/1876459138433044480/V0iptirv_400x400.jpg"
+issuer = "rNv9vWHXCRM9QgaWkfrAiau3ZxbbeEEb1q"
+currency = "COSTA"
+name = "COSTA"
+desc = "The Moon is a distraction, Pluto is a planet. Join COSTA as he embarcks on this XRPL journey"
+icon = "https://pbs.twimg.com/profile_images/1876743422049976321/j-PaUWNy_400x400.jpg"
 
 [[TOKENS.WEBLINKS]]
-url = "https://x.com/charkcoinxrp"
+url = "https://x.com/costacoinxrp"
 type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https://x.com/charkcoinxrp"
+url = "https://x.com/costacoinxrp"
 type = "socialmedia"
