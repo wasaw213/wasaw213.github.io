@@ -1,24 +1,24 @@
 [[ISSUERS]]
-address = "rUQDycPkQ1XLehCUhY7R44cGBqpfx4JyBF"
-name = "JEET"
+address = "rshEcEz8twfvtzWEwkbyBzDonkeCjuXKCd"
+name = "CHARK"
 
 [[ACCOUNTS]]
-address = "rUQDycPkQ1XLehCUhY7R44cGBqpfx4JyBF"
+address = "rshEcEz8twfvtzWEwkbyBzDonkeCjuXKCd"
 desc = "desc"
 domain = "https://dfasfasfasfasfs.netlify.app/"
 
 [[TOKENS]]
-issuer = "rUQDycPkQ1XLehCUhY7R44cGBqpfx4JyBF"
-currency = "JEET"
-name = "Jeeter Pan"
-desc = "adventuring never land, jeeting every 1 XRP we make for pixie dust."
-icon = "https://pbs.twimg.com/profile_images/1864177329225773056/DG2zG3pw_400x400.jpg"
+issuer = "rshEcEz8twfvtzWEwkbyBzDonkeCjuXKCd"
+currency = "CHARK"
+name = "CHARKOL"
+desc = "BORN TO BURN. Burn your doubts and join the hottest $CHARK on the XRP ledger!"
+icon = "https://pbs.twimg.com/profile_images/1876459138433044480/V0iptirv_400x400.jpg"
 
 [[TOKENS.WEBLINKS]]
-url = "https://x.com"
+url = "https://x.com/charkcoinxrp"
 type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https://x.com/jeetcoinxrp"
+url = "https://x.com/charkcoinxrp"
 type = "socialmedia"
