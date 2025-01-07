@@ -5,7 +5,7 @@ name = "CHARK"
 [[ACCOUNTS]]
 address = "rshEcEz8twfvtzWEwkbyBzDonkeCjuXKCd"
 desc = "desc"
-domain = "https://dfasfasfasfasfs.netlify.app/"
+domain = "https://charkcoinxrp.netlify.app/"
 
 [[TOKENS]]
 issuer = "rshEcEz8twfvtzWEwkbyBzDonkeCjuXKCd"
