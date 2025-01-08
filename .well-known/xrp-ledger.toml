@@ -1,24 +1,24 @@
 [[ISSUERS]]
-address = "rNv9vWHXCRM9QgaWkfrAiau3ZxbbeEEb1q"
-name = "COSTA"
+address = "r3ZPN6FALztXp4aFS1Hg4GdJFmmyFQumx9"
+name = "PLUTO"
 
 [[ACCOUNTS]]
-address = "rNv9vWHXCRM9QgaWkfrAiau3ZxbbeEEb1q"
+address = "r3ZPN6FALztXp4aFS1Hg4GdJFmmyFQumx9"
 desc = "desc"
-domain = "https://costacoinxrp.netlify.app/"
+domain = "https://plutocoinxrp.netlify.app/"
 
 [[TOKENS]]
-issuer = "rNv9vWHXCRM9QgaWkfrAiau3ZxbbeEEb1q"
-currency = "COSTA"
-name = "COSTA"
-desc = "The Moon is a distraction, Pluto is a planet. Join COSTA as he embarcks on this XRPL journey"
-icon = "https://pbs.twimg.com/profile_images/1876743422049976321/j-PaUWNy_400x400.jpg"
+issuer = "r3ZPN6FALztXp4aFS1Hg4GdJFmmyFQumx9"
+currency = "PLUTO"
+name = "PLUTO"
+desc = "PLUTO the cat on XRPL. Delusional? Maybe. Pluoto? Definately."
+icon = "https://pbs.twimg.com/profile_images/1876903646002069504/V1x-BRJ5_400x400.jpg"
 
 [[TOKENS.WEBLINKS]]
-url = "https://x.com/costacoinxrp"
+url = "https://x.com/plutocoinxrp"
 type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https://x.com/costacoinxrp"
+url = "https://x.com/plutocoinxrp"
 type = "socialmedia"
