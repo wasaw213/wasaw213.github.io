@@ -1,24 +1,24 @@
 [[ISSUERS]]
-address = "r3ZPN6FALztXp4aFS1Hg4GdJFmmyFQumx9"
-name = "PLUTO"
+address = "rJht3CmLFHU71c8dwSRt8nw74DkxX3sBMY"
+name = "DEV"
 
 [[ACCOUNTS]]
-address = "r3ZPN6FALztXp4aFS1Hg4GdJFmmyFQumx9"
+address = "rJht3CmLFHU71c8dwSRt8nw74DkxX3sBMY"
 desc = "desc"
-domain = "https://plutocoinxrp.netlify.app/"
+domain = "https://devcoinxrp.netlify.app/"
 
 [[TOKENS]]
-issuer = "r3ZPN6FALztXp4aFS1Hg4GdJFmmyFQumx9"
+issuer = "rJht3CmLFHU71c8dwSRt8nw74DkxX3sBMY"
 currency = "PLUTO"
-name = "PLUTO"
-desc = "PLUTO the cat on XRPL. Delusional? Maybe. Pluoto? Definately."
+name = "DEV"
+desc = "The dev is based"
 icon = "https://pbs.twimg.com/profile_images/1876903646002069504/V1x-BRJ5_400x400.jpg"
 
 [[TOKENS.WEBLINKS]]
-url = "https://x.com/plutocoinxrp"
+url = "https://x.com/devcoinxrp"
 type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https://x.com/plutocoinxrp"
+url = "https://x.com/devcoinxrp"
 type = "socialmedia"
