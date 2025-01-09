@@ -9,10 +9,10 @@ domain = "https://devcoinxrp.netlify.app/"
 
 [[TOKENS]]
 issuer = "rJht3CmLFHU71c8dwSRt8nw74DkxX3sBMY"
-currency = "PLUTO"
+currency = "DEV"
 name = "DEV"
-desc = "The dev is based"
-icon = "https://pbs.twimg.com/profile_images/1876903646002069504/V1x-BRJ5_400x400.jpg"
+desc = "The dev is based and cooking for meme season on XRPL"
+icon = "https://pbs.twimg.com/profile_images/1868904359972515840/O0SKYKSx_400x400.jpg"
 
 [[TOKENS.WEBLINKS]]
 url = "https://x.com/devcoinxrp"
