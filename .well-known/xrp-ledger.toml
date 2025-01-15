@@ -1,24 +1,24 @@
 [[ISSUERS]]
-address = "rJht3CmLFHU71c8dwSRt8nw74DkxX3sBMY"
-name = "DEV"
+address = "rJsDaYHAGS9H7pLdMS8AU8vcsWv75oahwV"
+name = "GRIFFIN"
 
 [[ACCOUNTS]]
-address = "rJht3CmLFHU71c8dwSRt8nw74DkxX3sBMY"
+address = "rJsDaYHAGS9H7pLdMS8AU8vcsWv75oahwV"
 desc = "desc"
-domain = "https://devcoinxrp.netlify.app/"
+domain = "https://griffincoinxrp.netlify.app/"
 
 [[TOKENS]]
 issuer = "rJht3CmLFHU71c8dwSRt8nw74DkxX3sBMY"
-currency = "DEV"
-name = "DEV"
-desc = "The dev is based and cooking for meme season on XRPL"
-icon = "https://pbs.twimg.com/profile_images/1868904359972515840/O0SKYKSx_400x400.jpg"
+currency = "GRIFFIN"
+name = "GRIFFIN"
+desc = "Welcome to PeterGriffin on XRP Ledger. Even your wallet could use a sense of humor"
+icon = "https://pbs.twimg.com/profile_images/1869052313408507904/gl3_kga9_400x400.jpg"
 
 [[TOKENS.WEBLINKS]]
-url = "https://x.com/devcoinxrp"
+url = "https://x.com/griffincoinxrp"
 type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https://x.com/devcoinxrp"
+url = "https://x.com/griffincoinxrp"
 type = "socialmedia"
