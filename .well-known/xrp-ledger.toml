@@ -5,7 +5,7 @@ name = "SEC"
 [[ACCOUNTS]]
 address = "rDxdqxDgJxtFMcY8esPgTR2Uzv1rgzMpnu"
 desc = "A memeoriablia of the destroyed SEC"
-domain = "https://seccoinxrp.netlify.app/"
+domain = "https://firstledger-seccoinxrp.netlify.app/"
 
 [[TOKENS]]
 issuer = "rDxdqxDgJxtFMcY8esPgTR2Uzv1rgzMpnu"
