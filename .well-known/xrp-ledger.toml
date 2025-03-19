@@ -1,24 +1,24 @@
 [[ISSUERS]]
-address = "rJsDaYHAGS9H7pLdMS8AU8vcsWv75oahwV"
-name = "GRIFFIN"
+address = "rDxdqxDgJxtFMcY8esPgTR2Uzv1rgzMpnu"
+name = "SEC"
 
 [[ACCOUNTS]]
-address = "rJsDaYHAGS9H7pLdMS8AU8vcsWv75oahwV"
-desc = "desc"
-domain = "https://griffincoinxrp.netlify.app/"
+address = "rDxdqxDgJxtFMcY8esPgTR2Uzv1rgzMpnu"
+desc = "A memeoriablia of the destroyed SEC"
+domain = "https://seccoinxrp.netlify.app/"
 
 [[TOKENS]]
 issuer = "rJht3CmLFHU71c8dwSRt8nw74DkxX3sBMY"
-currency = "GRIFFIN"
-name = "GRIFFIN"
-desc = "Welcome to PeterGriffin on XRP Ledger. Even your wallet could use a sense of humor"
-icon = "https://pbs.twimg.com/profile_images/1869052313408507904/gl3_kga9_400x400.jpg"
+currency = "SEC"
+name = "SEC"
+desc = "Welcome to SEC on XRP Ledger. Even your wallet could use a sense of humor"
+icon = "https://pbs.twimg.com/profile_images/1900288414240395265/9pismE35_400x400.jpg"
 
 [[TOKENS.WEBLINKS]]
-url = "https://x.com/griffincoinxrp"
+url = "https://x.com/seccoinxrp"
 type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https://x.com/griffincoinxrp"
+url = "https://x.com/seccoinxrp"
 type = "socialmedia"
