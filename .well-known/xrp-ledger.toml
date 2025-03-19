@@ -8,7 +8,7 @@ desc = "A memeoriablia of the destroyed SEC"
 domain = "https://seccoinxrp.netlify.app/"
 
 [[TOKENS]]
-issuer = "rJht3CmLFHU71c8dwSRt8nw74DkxX3sBMY"
+issuer = "rDxdqxDgJxtFMcY8esPgTR2Uzv1rgzMpnu"
 currency = "SEC"
 name = "SEC"
 desc = "Welcome to SEC on XRP Ledger. Even your wallet could use a sense of humor"
