@@ -1,24 +1,24 @@
 [[ISSUERS]]
-address = "rDxdqxDgJxtFMcY8esPgTR2Uzv1rgzMpnu"
-name = "SEC"
+address = "r9Bx4zmD6F8A2Fr3diqyrHcnRSFFkmVXD5"
+name = "COKE"
 
 [[ACCOUNTS]]
-address = "rDxdqxDgJxtFMcY8esPgTR2Uzv1rgzMpnu"
-desc = "A memeoriablia of the destroyed SEC"
-domain = "https://firstledger-seccoinxrp.netlify.app/"
+address = "r9Bx4zmD6F8A2Fr3diqyrHcnRSFFkmVXD5"
+desc = "COKE IT UP"
+domain = "zosalncd8lapapu-toml-firstledger-net"
 
 [[TOKENS]]
-issuer = "rDxdqxDgJxtFMcY8esPgTR2Uzv1rgzMpnu"
-currency = "SEC"
-name = "SEC"
-desc = "Welcome to SEC on XRP Ledger. Even your wallet could use a sense of humor"
-icon = "https://pbs.twimg.com/profile_images/1900288414240395265/9pismE35_400x400.jpg"
+issuer = "r9Bx4zmD6F8A2Fr3diqyrHcnRSFFkmVXD5"
+currency = "COKE"
+name = "COKE"
+desc = "Welcome to COKE on XRP Ledger. Even your wallet could use a sense of humor"
+icon = "https://pbs.twimg.com/profile_images/1442857119460569090/6P3xr19F_400x400.jpg"
 
 [[TOKENS.WEBLINKS]]
-url = "https://x.com/seccoinxrp"
+url = "https://x.com/COKEcoinxrp"
 type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https://x.com/seccoinxrp"
+url = "https://x.com/COKEcoinxrp"
 type = "socialmedia"
