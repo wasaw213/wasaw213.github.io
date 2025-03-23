@@ -1,24 +1,24 @@
 [[ISSUERS]]
-address = "r9Bx4zmD6F8A2Fr3diqyrHcnRSFFkmVXD5"
+address = "raxXEJoRWoxUazJkek9AVDDM7Zh5SYBiMs"
 name = "COKE"
 
 [[ACCOUNTS]]
-address = "r9Bx4zmD6F8A2Fr3diqyrHcnRSFFkmVXD5"
-desc = "COKE IT UP"
+address = "raxXEJoRWoxUazJkek9AVDDM7Zh5SYBiMs"
+desc = "WALL ST BETS"
 domain = "zosalncd8lapapu-toml-firstledger-net"
 
 [[TOKENS]]
-issuer = "r9Bx4zmD6F8A2Fr3diqyrHcnRSFFkmVXD5"
-currency = "COKE"
-name = "COKE"
-desc = "Welcome to COKE on XRP Ledger. Even your wallet could use a sense of humor"
+issuer = "raxXEJoRWoxUazJkek9AVDDM7Zh5SYBiMs"
+currency = "WSB"
+name = "WSB"
+desc = "Welcome to WSB on XRP Ledger. Even your wallet could use a sense of humor"
 icon = "https://pbs.twimg.com/profile_images/1442857119460569090/6P3xr19F_400x400.jpg"
 
 [[TOKENS.WEBLINKS]]
-url = "https://x.com/COKEcoinxrp"
+url = "https://x.com/wsb_coin_xrp"
 type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https://x.com/COKEcoinxrp"
+url = "https://x.com/wsb_coin_xrpl"
 type = "socialmedia"
